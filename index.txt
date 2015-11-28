@@ -1,6 +1,6 @@
 bricks
 more quickcrete
-sand
+quicksand
 
 module one:
 item 1
